@@ -1,3 +1,5 @@
+Open https://ylmzmre.github.io/hepsi-case/ to view it in the browser.
+
 # hepsi-case
 
 • Uygulamanın ilk ekranı listedir. Add link girilerek liste oluşturulmalıdır. Burada girilen kayıtlardaki kural en son girilen en başta olucak şekilde yapılmıştır.
