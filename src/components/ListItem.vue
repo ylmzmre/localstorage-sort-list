@@ -167,6 +167,7 @@ export default class ListItem extends Vue {
   display: flex;
   margin-bottom: 15px;
   padding: 6px;
+  height: 125px;
 }
 
 .list-item:hover {
